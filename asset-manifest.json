@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/geeksevolution/static/css/main.859ceffa.css",
-    "main.js": "/geeksevolution/static/js/main.e4685834.js",
+    "main.js": "/geeksevolution/static/js/main.fdbf5786.js",
     "static/media/bg.webp": "/geeksevolution/static/media/bg.baa1024a4ae092566a75.webp",
     "index.html": "/geeksevolution/index.html",
     "main.859ceffa.css.map": "/geeksevolution/static/css/main.859ceffa.css.map",
-    "main.e4685834.js.map": "/geeksevolution/static/js/main.e4685834.js.map"
+    "main.fdbf5786.js.map": "/geeksevolution/static/js/main.fdbf5786.js.map"
   },
   "entrypoints": [
     "static/css/main.859ceffa.css",
-    "static/js/main.e4685834.js"
+    "static/js/main.fdbf5786.js"
   ]
 }
