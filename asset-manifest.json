@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/geeksevolution/static/css/main.859ceffa.css",
+    "main.js": "/geeksevolution/static/js/main.4c1537d9.js",
+    "static/media/bg.webp": "/geeksevolution/static/media/bg.baa1024a4ae092566a75.webp",
+    "index.html": "/geeksevolution/index.html",
+    "main.859ceffa.css.map": "/geeksevolution/static/css/main.859ceffa.css.map",
+    "main.4c1537d9.js.map": "/geeksevolution/static/js/main.4c1537d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.859ceffa.css",
+    "static/js/main.4c1537d9.js"
+  ]
+}
