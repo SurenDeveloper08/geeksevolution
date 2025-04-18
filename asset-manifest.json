@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/geeksevolution/static/css/main.859ceffa.css",
-    "main.js": "/geeksevolution/static/js/main.4c1537d9.js",
-    "static/media/bg.webp": "/geeksevolution/static/media/bg.baa1024a4ae092566a75.webp",
-    "index.html": "/geeksevolution/index.html",
-    "main.859ceffa.css.map": "/geeksevolution/static/css/main.859ceffa.css.map",
-    "main.4c1537d9.js.map": "/geeksevolution/static/js/main.4c1537d9.js.map"
+    "main.css": "/static/css/main.2b5133e4.css",
+    "main.js": "/static/js/main.bc7a377b.js",
+    "static/media/bg.webp": "/static/media/bg.baa1024a4ae092566a75.webp",
+    "index.html": "/index.html",
+    "main.2b5133e4.css.map": "/static/css/main.2b5133e4.css.map",
+    "main.bc7a377b.js.map": "/static/js/main.bc7a377b.js.map"
   },
   "entrypoints": [
-    "static/css/main.859ceffa.css",
-    "static/js/main.4c1537d9.js"
+    "static/css/main.2b5133e4.css",
+    "static/js/main.bc7a377b.js"
   ]
 }
