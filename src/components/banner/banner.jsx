@@ -3,9 +3,9 @@ import "react-responsive-carousel/lib/styles/carousel.min.css";
 
 const Banner= ()=> {
   const images = [
-    "/images/Dubai.jpg",
-    "/images/Dubai.jpg",
-    "/images/Dubai.jpg",
+    "images/Dubai.jpg",
+    "images/Dubai.jpg",
+    "images/Dubai.jpg",
   ];
   return (
     <div className="box">
