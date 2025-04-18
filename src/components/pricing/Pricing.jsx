@@ -13,8 +13,7 @@ const Pricing = () => {
           <PriceCard />
         </div>
       </section>
-      <Faq />
-    </>
+     </>
   )
 }
 

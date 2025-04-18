@@ -354,20 +354,20 @@ export const testimonal = [
     name: "surendiran",
     post: "DEVELOPER",
     desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-    cover: "/images/Untitled design (18).png",
+    cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROtOvHAHbu6hlTUpu8tIIeMiI3rJKupjbItNOtWRXnu5cMJdeOlvr1Axhcppfq-KG3m6E&usqp=CAU",
   },
   {
     id: 2,
     name: "suren",
     post: "DEVELOPER",
     desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-    cover: "/images/Untitled design (18).png",
+    cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROtOvHAHbu6hlTUpu8tIIeMiI3rJKupjbItNOtWRXnu5cMJdeOlvr1Axhcppfq-KG3m6E&usqp=CAU",
   },
   {
     id: 3,
     name: "diran",
     post: "DEVELOPER",
     desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-    cover: "/images/Untitled design (18).png",
+    cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROtOvHAHbu6hlTUpu8tIIeMiI3rJKupjbItNOtWRXnu5cMJdeOlvr1Axhcppfq-KG3m6E&usqp=CAU",
   },
 ]
