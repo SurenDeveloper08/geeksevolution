@@ -1,6 +1,6 @@
 import "./App.css"
 import Header from "./components/common/header/Header"
-import { BrowserRouter as Router,Route,Switch } from "react-router-dom"
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import About from "./components/about/About"
 import Service from "./components/pricing/Pricing"
 import Blog from "./components/blog/Blog"
@@ -10,17 +10,19 @@ import Home from "./components/home/Home"
 function App() {
   return (
     <>
+    <div>
       <Router>
         <Header />
-        <Switch>
-          <Route exact path='/' component={Home} />
-          <Route exact path='/about' component={About} />
-          <Route exact path='/blog' component={Blog} />
-          <Route exact path='/service' component={Service} />
-          <Route exact path='/contact' component={Contact} />
-        </Switch>
+        <Routes>
+         <Route path="/" element={<Home />} />
+         <Route  path='/about' element={<About/>} />
+          <Route  path='/blog' element={<Blog/>} />
+          <Route  path='/service' element={<Service/>} />
+          <Route  path='/contact' element={<Contact/>} />
+        </Routes>
         <Footer />
       </Router>
+      </div>
     </>
   )
 }
