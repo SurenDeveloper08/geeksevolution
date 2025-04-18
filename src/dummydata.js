@@ -327,7 +327,7 @@ export const blog = [
     com: "3 COMMENTS ",
     title: "Discover the Charm of Abu Dhabi",
     desc: "Abu Dhabi, the capital of the UAE, is a blend of modern innovation and rich culture. ",
-    cover: "/images/Untitled design (19).png",
+    cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOlMcw3FksLay-hrv1zId-XPF7d126_l9H_Hl3r3smepMNTCTxLdg3eE2ji0JqeXHsldA&usqp=CAU",
   },
   {
     id: 2,
@@ -336,7 +336,7 @@ export const blog = [
     com: "5 COMMENTS ",
     title: "Build your Dream Website",
     desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "/images/Untitled design (20).png",
+    cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOlMcw3FksLay-hrv1zId-XPF7d126_l9H_Hl3r3smepMNTCTxLdg3eE2ji0JqeXHsldA&usqp=CAU",
   },
   {
     id: 3,
@@ -345,7 +345,7 @@ export const blog = [
     com: "10 COMMENTS ",
     title: "UAE: A Hub for Business and Innovation",
     desc: "The UAE is one of the fastest-growing business hubs in the world.",
-    cover: "/images/Untitled design (21).png",
+    cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOlMcw3FksLay-hrv1zId-XPF7d126_l9H_Hl3r3smepMNTCTxLdg3eE2ji0JqeXHsldA&usqp=CAU",
   },
 ]
 export const testimonal = [
