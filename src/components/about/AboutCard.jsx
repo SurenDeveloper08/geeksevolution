@@ -11,7 +11,7 @@ const AboutCard = () => {
       <section className='aboutHome'>
         <div className='container flexSB'>
           <div className='left row'>
-            <img src='/images/Untitled design (24).png' alt='img about' />
+            <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1Xremg3Se8EUr91SmYA_a03rqO6Dy5FdvkXKqAahyVivoGdSNRalRi4unlSw5xRPk4IM&usqp=CAU' alt='img about' />
           </div>
           <div className='right row'>
             <Heading subtitle='Simple Website' title='About Us' />

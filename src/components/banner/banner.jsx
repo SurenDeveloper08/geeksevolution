@@ -4,8 +4,8 @@ import "react-responsive-carousel/lib/styles/carousel.min.css";
 const Banner= ()=> {
   const images = [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/UAE_front_page_banner.jpg/960px-UAE_front_page_banner.jpg?20201018215944",
-    "images/dubai.jpg",
-    "images/dubai.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/UAE_front_page_banner.jpg/960px-UAE_front_page_banner.jpg?20201018215944",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/UAE_front_page_banner.jpg/960px-UAE_front_page_banner.jpg?20201018215944",
   ];
   return (
     <div className="box">
