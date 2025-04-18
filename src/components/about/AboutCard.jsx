@@ -3,6 +3,7 @@ import Heading from "../common/heading/Heading"
 import "./about.css"
 import { homeAbout } from "../../dummydata"
 import Awrapper from "./Awrapper"
+import Img from '../../../public/images/Untitled design (24).png'
 
 const AboutCard = () => {
   return (
@@ -10,7 +11,7 @@ const AboutCard = () => {
       <section className='aboutHome'>
         <div className='container flexSB'>
           <div className='left row'>
-            <img src='/images/Untitled design (24).png' alt='' />
+            <img src={Img} alt='img about' />
           </div>
           <div className='right row'>
             <Heading subtitle='Simple Website' title='About Us' />
